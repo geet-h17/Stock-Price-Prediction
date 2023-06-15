@@ -1,4 +1,15 @@
+###################################################
 
+Stock market price prdiction tool
+
+Author: geet
+version: v1
+Date: 23/oct/2021
+
+
+
+
+###################################################
 from sklearn.svm import SVC
 from sklearn.metrics import accuracy_score
 
